@@ -1,22 +1,52 @@
-<h1 align="center">Hi 👋, I'm Nadeem Nazer</h1>
-<h3 align="center">I am a passionate AI enthusiast and Software Developer from India. Currently pursuing my Masters in Germany specializing in Data Science.</h3>
+<h1 align="center">Hi 👋, I'm Asmina Nassar</h1>
+<h3 align="center">AI Engineer building agentic systems, moving into robotics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemn&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asmina-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Asmina-hub" /> </p>
 
-- 🌱 I’m currently working as a Research Associate at Research Campus Stimulate, Magdeburg, focusing on Non-hypothesis-driven identification of predictors of vasospasms, hydrocephalus, and functional outcome in patients with aneurysmal subarachnoid haemorrhage.
-
-- 📫 How to reach me **nadeemnazer123@gmail.com**
-
-- My Portfolio: https://nadeemn.github.io/portfolio/
+- 🔬 Research Assistant at **ScaDS.AI (TU Dresden)**, working on a pipeline for academic paper metadata and citation behaviour
+- 🤖 Master's thesis at **OVGU Magdeburg**: robot localization on evacuation plans using Monte Carlo Localization with LLM-based observations
+- 🚗 Bosch Future Mobility Challenge 2026: training YOLOv8 and deploying it on edge hardware
+- 🧠 2 years in Generative AI: LangGraph agents, RAG, vector databases and LLM-as-a-Judge evaluation pipelines
+- 🧪 Background as an SDET (Infosys, Up2Parts), so I care about systems that are tested, evaluable and ready for production
+- 🦾 Currently growing into **Robotics + AI**: perception, VLMs, ROS2, Nav2, SLAM
+- 💼 Open to robotics and AI engineering roles
+- 📫 Reach me at **your.email@example.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nadeem-nazer-87056114b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nadeem-nazer-87056114b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asmina-nassar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeemn&show_icons=true&locale=en&layout=compact" alt="nadeemn" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemn" alt="nadeemn" /></p>
+<h3 align="left">AI and LLMs</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat" />
+<img src="https://img.shields.io/badge/Vector%20DBs-6A5ACD?style=flat" />
+<img src="https://img.shields.io/badge/LLM--as--a--Judge-FF8C00?style=flat" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+</p>
 
+<h3 align="left">Robotics and Vision</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/Nav2-22314E?style=flat" />
+<img src="https://img.shields.io/badge/SLAM-555555?style=flat" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logoColor=black" />
+</p>
+
+<h3 align="left">Engineering and Testing</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+</p>
+
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmina-hub&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmina-hub" alt="streak stats" /></p>
