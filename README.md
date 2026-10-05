@@ -47,5 +47,4 @@
 </p>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmina-hub&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmina-hub" alt="streak stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmina-hub&hide=jupyter%20notebook,html,css&show_icons=true&locale=en&layout=compact" alt="top languages" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmina-hub" alt="streak stats" /></p>
