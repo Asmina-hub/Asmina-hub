@@ -5,7 +5,7 @@
 
 - 🔬 Research Assistant at **ScaDS.AI (TU Dresden)**, working on a pipeline for academic paper metadata and citation behaviour study
 - 🤖 Master's thesis at **OVGU Magdeburg**: Modern Methods on robot localization 
-- 🚗 Bosch Future Mobility Challenge 2026: training detection model and deploying it on edge hardware
+- 🚗 Bosch Future Mobility Challenge 2026: trained detection model and deploying it on edge hardware
 - 🧠 2 years in Generative AI: LangGraph Multiagents, RAG, vector databases and LLM-as-a-Judge evaluation pipelines 
 - 🧪 Background as an SDET (Infosys, Up2Parts), so I care about systems that are tested, evaluable and ready for production
 - 🦾 Currently growing into **Robotics + AI**: perception, VLMs, ROS2, Nav2, SLAM
