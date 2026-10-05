@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asmina-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Asmina-hub" /> </p>
 
-- 🔬 Research Assistant at **ScaDS.AI (TU Dresden)**, working on a pipeline for academic paper metadata and citation behaviour
-- 🤖 Master's thesis at **OVGU Magdeburg**: robot localization on evacuation plans using Monte Carlo Localization with LLM-based observations
-- 🚗 Bosch Future Mobility Challenge 2026: training YOLOv8 and deploying it on edge hardware
-- 🧠 2 years in Generative AI: LangGraph agents, RAG, vector databases and LLM-as-a-Judge evaluation pipelines
+- 🔬 Research Assistant at **ScaDS.AI (TU Dresden)**, working on a pipeline for academic paper metadata and citation behaviour study
+- 🤖 Master's thesis at **OVGU Magdeburg**: Modern Methods on robot localization 
+- 🚗 Bosch Future Mobility Challenge 2026: training detection model and deploying it on edge hardware
+- 🧠 2 years in Generative AI: LangGraph Multiagents, RAG, vector databases and LLM-as-a-Judge evaluation pipelines 
 - 🧪 Background as an SDET (Infosys, Up2Parts), so I care about systems that are tested, evaluable and ready for production
 - 🦾 Currently growing into **Robotics + AI**: perception, VLMs, ROS2, Nav2, SLAM
-- 💼 Open to robotics and AI engineering roles
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **asminanassar77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
